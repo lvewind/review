@@ -1,0 +1,97 @@
+# -*- coding: utf-8 -*-
+
+# Form implementation generated from reading view file 'dialog_emulator_creating.view'
+#
+# Created by: PySide6 UI code generator 5.13.0
+#
+# WARNING! All changes made in this file will be lost!
+
+
+from PySide6 import QtCore, QtGui, QtWidgets
+
+
+class Ui_Dialog_create_emulator(object):
+    def setupUi(self, Dialog_create_emulator):
+        Dialog_create_emulator.setObjectName("Dialog_create_emulator")
+        Dialog_create_emulator.setWindowModality(QtCore.Qt.ApplicationModal)
+        Dialog_create_emulator.resize(320, 240)
+        Dialog_create_emulator.setMinimumSize(QtCore.QSize(320, 160))
+        font = QtGui.QFont()
+        font.setFamily("楷体")
+        font.setPointSize(11)
+        Dialog_create_emulator.setFont(font)
+        self.label = QtWidgets.QLabel(Dialog_create_emulator)
+        self.label.setGeometry(QtCore.QRect(50, 120, 71, 16))
+        font = QtGui.QFont()
+        font.setFamily("微软雅黑")
+        font.setPointSize(9)
+        self.label.setFont(font)
+        self.label.setObjectName("label")
+        self.label_2 = QtWidgets.QLabel(Dialog_create_emulator)
+        self.label_2.setGeometry(QtCore.QRect(160, 120, 41, 16))
+        font = QtGui.QFont()
+        font.setFamily("微软雅黑")
+        font.setPointSize(9)
+        self.label_2.setFont(font)
+        self.label_2.setObjectName("label_2")
+        self.label_3 = QtWidgets.QLabel(Dialog_create_emulator)
+        self.label_3.setGeometry(QtCore.QRect(250, 120, 21, 16))
+        font = QtGui.QFont()
+        font.setFamily("微软雅黑")
+        font.setPointSize(9)
+        self.label_3.setFont(font)
+        self.label_3.setObjectName("label_3")
+        self.label_current_creating_emulator = QtWidgets.QLabel(Dialog_create_emulator)
+        self.label_current_creating_emulator.setGeometry(QtCore.QRect(120, 120, 31, 16))
+        font = QtGui.QFont()
+        font.setFamily("微软雅黑")
+        font.setPointSize(9)
+        self.label_current_creating_emulator.setFont(font)
+        self.label_current_creating_emulator.setText("")
+        self.label_current_creating_emulator.setAlignment(QtCore.Qt.AlignCenter)
+        self.label_current_creating_emulator.setObjectName("label_current_creating_emulator")
+        self.label_total_creating_emulator = QtWidgets.QLabel(Dialog_create_emulator)
+        self.label_total_creating_emulator.setGeometry(QtCore.QRect(210, 120, 31, 16))
+        font = QtGui.QFont()
+        font.setFamily("微软雅黑")
+        font.setPointSize(9)
+        self.label_total_creating_emulator.setFont(font)
+        self.label_total_creating_emulator.setText("")
+        self.label_total_creating_emulator.setAlignment(QtCore.Qt.AlignCenter)
+        self.label_total_creating_emulator.setObjectName("label_total_creating_emulator")
+        self.label_4 = QtWidgets.QLabel(Dialog_create_emulator)
+        self.label_4.setGeometry(QtCore.QRect(50, 40, 221, 16))
+        font = QtGui.QFont()
+        font.setFamily("微软雅黑")
+        font.setPointSize(9)
+        self.label_4.setFont(font)
+        self.label_4.setAlignment(QtCore.Qt.AlignCenter)
+        self.label_4.setObjectName("label_4")
+        self.label_5 = QtWidgets.QLabel(Dialog_create_emulator)
+        self.label_5.setGeometry(QtCore.QRect(100, 80, 131, 16))
+        font = QtGui.QFont()
+        font.setFamily("微软雅黑")
+        font.setPointSize(9)
+        self.label_5.setFont(font)
+        self.label_5.setObjectName("label_5")
+        self.label_current_disk_speed = QtWidgets.QLabel(Dialog_create_emulator)
+        self.label_current_disk_speed.setGeometry(QtCore.QRect(120, 170, 91, 16))
+        font = QtGui.QFont()
+        font.setFamily("微软雅黑")
+        font.setPointSize(9)
+        self.label_current_disk_speed.setFont(font)
+        self.label_current_disk_speed.setText("")
+        self.label_current_disk_speed.setAlignment(QtCore.Qt.AlignCenter)
+        self.label_current_disk_speed.setObjectName("label_current_disk_speed")
+
+        self.retranslateUi(Dialog_create_emulator)
+        QtCore.QMetaObject.connectSlotsByName(Dialog_create_emulator)
+
+    def retranslateUi(self, Dialog_create_emulator):
+        _translate = QtCore.QCoreApplication.translate
+        Dialog_create_emulator.setWindowTitle(_translate("Dialog_create_emulator", "模拟器盘创建中..."))
+        self.label.setText(_translate("Dialog_create_emulator", "正在创建第"))
+        self.label_2.setText(_translate("Dialog_create_emulator", "个，共"))
+        self.label_3.setText(_translate("Dialog_create_emulator", "个"))
+        self.label_4.setText(_translate("Dialog_create_emulator", "正在初始化模拟器磁盘,可能需要较长时间"))
+        self.label_5.setText(_translate("Dialog_create_emulator", "完成之前请勿关闭程序"))

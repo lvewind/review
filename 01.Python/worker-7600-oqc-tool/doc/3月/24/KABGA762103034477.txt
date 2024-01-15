@@ -1,0 +1,21 @@
+None
+None
+None
+None
+None
+None
+
+WIFI
+2.4G
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-60.04  sec  2.56 GBytes   366 Mbits/sec                  sender
+[  5]   0.00-60.00  sec  2.56 GBytes   366 Mbits/sec                  receiver
+
+5G
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-60.04  sec  6.46 GBytes   924 Mbits/sec                  sender
+[  5]   0.00-60.00  sec  6.46 GBytes   924 Mbits/sec                  receiver
+
+LAN
+1G
+None

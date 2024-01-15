@@ -1,0 +1,10 @@
+1111111111
+11111111111111111
+9877.E7A7.EEC8
+
+
+main_5g_down: 11  Mbits/sec
+main_5g_up: 11  Mbits/sec
+
+bridge_5g_down: 11  Mbits/sec
+bridge_5g_up: 11  Mbits/sec

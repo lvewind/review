@@ -1,0 +1,12 @@
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts"
+       xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="en-US">
+    <voice name="zh-CN-YunxiNeural">
+        <mstts:express-as style="serious" role="Boy">
+            <prosody rate="0%" pitch="0%">
+                据悉，新冠抗原自测产品可以非常便捷的自行采样测试，整个过程仅需15-20分钟，即可观察到结果，年龄14岁以上的人群可自行进行鼻腔拭子采样。
+
+                自检者先用卫生纸擤去鼻涕。小心拆开鼻拭子外包装，避免手部接触拭子头。随后头部微仰，一手执拭子尾部贴一侧鼻孔进入，沿下鼻道的底部向后缓缓深入1-1.5厘米后贴鼻腔旋转至少4圈（停留时间不少于15秒），随后使用同一拭子对另一鼻腔重复相同操作即可。
+            </prosody>
+        </mstts:express-as>
+    </voice>
+</speak>

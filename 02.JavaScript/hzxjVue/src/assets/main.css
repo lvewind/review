@@ -1,0 +1,36 @@
+@import "./base.css";
+
+#app {
+  max-width: 1024px;
+  margin: 0 auto;
+  font-weight: normal;
+  /*top: 0;*/
+  /*position: relative;*/
+}
+
+
+.form-header{
+  text-align: center;
+  font-size: x-large;
+}
+.form-footer{
+  text-align: center;
+  font-size: xx-small;
+}
+
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    /*display: flex;*/
+    place-items: center;
+  }
+  #app{
+    min-width: 1024px;
+  }
+}

@@ -1,0 +1,29 @@
+
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(2021,12,20,2020056),
+    prodvers=(2021,12,20,2020056),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+    ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        u'040904B0',
+        [StringStruct(u'CompanyName', u'Microsoft Corporation'),
+        StringStruct(u'FileDescription', u'GAPK7600_OQC_TOOL_BY_QWL'),
+        StringStruct(u'FileVersion', u'2021.12.20.056'),
+        StringStruct(u'InternalName', u'HiWorker'),
+        StringStruct(u'LegalCopyright', u'© lvewind'),
+        StringStruct(u'OriginalFilename', u'HiWorker.exe'),
+        StringStruct(u'ProductName', u'GAPK7600_OQC_TOOL_BY_QWL'),
+        StringStruct(u'ProductVersion', u'1.0.0')])
+      ]),
+    VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
+  ]
+)

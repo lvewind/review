@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+
+    window.addEventListener("message",
+        (event) => {
+            console.log(event.data)
+        }
+    )
+
+    function post_test() {
+        if (window.opener) {
+            window.opener.postMessage("second", "*")
+        }
+    }
+
+    setInterval(post_test, 1000)
+
+
+</script>
+</body>
+</html>

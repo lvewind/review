@@ -1,0 +1,23 @@
+14LQ9C5@16
+1.00.22(Jan 25 08:13:08 2021)
+KABGA762103046752
+98:77:E7:1A:4F:9C
+4.66V  0.5A
+18@8BI9C33
+
+WIFI
+2.4G
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-60.05  sec  2.99 GBytes   428 Mbits/sec                  sender
+[  5]   0.00-60.00  sec  2.99 GBytes   428 Mbits/sec                  receiver
+
+5G
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-60.06  sec  6.58 GBytes   941 Mbits/sec                  sender
+[  5]   0.00-60.00  sec  6.57 GBytes   941 Mbits/sec                  receiver
+
+LAN
+1G
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-60.06  sec  6.64 GBytes   950 Mbits/sec                  sender
+[  5]   0.00-60.00  sec  6.64 GBytes   950 Mbits/sec                  receiver

@@ -1,0 +1,1 @@
+﻿from .tts import Ui_Dialog_tts

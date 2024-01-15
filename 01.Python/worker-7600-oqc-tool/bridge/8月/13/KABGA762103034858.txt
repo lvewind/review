@@ -1,0 +1,16 @@
+12FH3A1#07
+KABGA762103034858
+9877.E719.C43A
+
+
+main_2_4g_down: 1  Mbits/sec
+main_2_4g_up: 1  Mbits/sec
+
+main_5g_down: 1  Mbits/sec
+main_5g_up: 1  Mbits/sec
+
+bridge_2_4g_down: 1  Mbits/sec
+bridge_2_4g_up: 1  Mbits/sec
+
+bridge_5g_down: 1  Mbits/sec
+bridge_5g_up: 1  Mbits/sec

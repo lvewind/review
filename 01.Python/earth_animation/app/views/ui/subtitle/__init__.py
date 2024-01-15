@@ -1,0 +1,2 @@
+﻿from .subtitle_action_edit import Ui_Dialog_subtitle_action_edit
+from .subtitle_prop_edit import Ui_Dialog_subtitle_edit

@@ -1,0 +1,18 @@
+{
+  "bounty_seals_is_bounty_seals_invite_panel": {
+    "left": 734,
+    "top": 352,
+    "right": 781,
+    "bottom": 392,
+    "width": 45,
+    "height": 38
+  },
+  "bounty_seals_is_bounty_seals_invite_panel_button": {
+    "left": 673,
+    "top": 98,
+    "right": 709,
+    "bottom": 130,
+    "width": 34,
+    "height": 30
+  }
+}

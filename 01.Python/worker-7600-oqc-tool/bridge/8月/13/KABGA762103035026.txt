@@ -1,0 +1,16 @@
+16RW320#97
+KABGA762103035026
+9877.E719.C632
+
+
+main_2_4g_down: 11  Mbits/sec
+main_2_4g_up: 11  Mbits/sec
+
+main_5g_down: 222  Mbits/sec
+main_5g_up: 33  Mbits/sec
+
+bridge_2_4g_down: 22  Mbits/sec
+bridge_2_4g_up: 333  Mbits/sec
+
+bridge_5g_down: 444  Mbits/sec
+bridge_5g_up: 555  Mbits/sec

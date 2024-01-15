@@ -1,0 +1,38 @@
+.success-title{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 50%;
+}
+.upload_image_preview {
+    width: 100%;
+    overflow: hidden;
+}
+.upload_video_preview{
+    max-width: 102px;
+    margin-left: -8px;
+}
+.ant-upload-select-picture-card {
+    overflow: hidden;
+}
+.ant-layout {
+    text-align: center;
+}
+
+.ant-layout-header {
+    background-color: #f8f8f8;
+}
+
+.ant-layout-content {
+    padding: 20px !important;
+}
+
+.department-name {
+    text-align: center;
+}
+
+.project-name {
+    font-weight: bold;
+}
+.copy-right {
+    font-size: xx-small;
+}
